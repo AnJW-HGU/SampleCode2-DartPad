@@ -2,4 +2,4 @@ name: Row 2
 mode: flutter
 files:
   - name: main.dart
-  - name: row.dart
+  - name: test.dart
