@@ -2,4 +2,4 @@ name: Container 2
 mode: flutter
 files:
   - name: main.dart
-  - name: container.dart
+  - name: test.dart
